@@ -133,3 +133,7 @@ back-end/pcovid_venv/
 
 # ignore .vscode
 .vscode/
+
+# ignore migration files
+back-end/pcovid/plots/migrations/
+back-end/pcovid/api/migrations/
