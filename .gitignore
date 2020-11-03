@@ -130,3 +130,6 @@ dmypy.json
 
 # virtual env files
 back-end/pcovid_venv/
+
+# ignore .vscode
+.vscode/
