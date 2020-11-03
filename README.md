@@ -18,3 +18,5 @@ Thinking of implementing the following type of flow for the covid data plotting
 |        |     |backend |  # for data storing we'll use sqlite db for now
 ++++++++++     ++++++++++
 ```
+
+* continuous data from sources to redis stream is dumped to datawarehouse daily (sqlite db)
